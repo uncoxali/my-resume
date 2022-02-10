@@ -30,7 +30,7 @@ export default function Home() {
                                 Saeed Abdi
                             </div>
                         </div>
-                        <div className="w-full border-gray-200 print:w-3/4  print:border-l md:w-3/4 md:border-l  md:pl-8">
+                        <div className="w-full border-gray-200 print:w-3/4 print:border-l  print:pl-8 md:w-3/4 md:border-l  md:pl-8">
                             <Card title="profile" icon={<ProfileIcon className="mr-2 h-7 w-7" />}>
                                 <div>
                                     <h2 className="prose-lg flex w-full items-center px-2 py-10 text-lg text-gray-700 md:w-2/3">

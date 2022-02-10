@@ -10,7 +10,7 @@ import { SkillItemProps } from 'components/pages/resume/skillItem';
 export const WorkExprience = [
     {
         'title': 'Head of front-end development',
-        'date': 'Feb 2021 - Jun 2021 · 5 mos',
+        'date': 'Feb 2021 - Jun 2021 · 5 mos part-time',
         'location': 'Tehran, Iran',
         'subTitle': 'Cloudware',
         'description':
@@ -22,7 +22,7 @@ export const WorkExprience = [
         'location': 'Tehran, Iran',
         'subTitle': 'Sina Idea Graph',
         'description':
-            'Idea Negar Sina Company was established in 2018 in the Internet industry / e-commerce / online services, medical services and health. In the field of consulting services in management and information technology, he is an activity and developer of mobile applications.',
+            'Idea Negar Sina Company was established in 2018 in the Internet industry / e-commerce / online services, medical services and health. In the field of consulting services in management and information technology .',
     },
     {
         'title': 'Senior front-end developer',
