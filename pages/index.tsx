@@ -90,8 +90,8 @@ export default function Home() {
                                         structuring infrastructure
                                     </li>
                                     <li>
-                                        Developing front-end for 5+ websites and web apps, using
-                                        React.js, Next.js, Redux, and Apollo.
+                                        Developing front-end landing-page, using React.js, Next.js,
+                                        Redux.
                                     </li>
                                     <li>
                                         Using skills in debugging to check code, improve code and
