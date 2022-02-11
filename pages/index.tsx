@@ -138,7 +138,7 @@ export default function Home() {
                     >
                         <div className="prose p-4 px-8">
                             <h3>AZAD ISLAMIC UNIVERSITY</h3>
-                            <p>Bachelor's Operation Physical Education</p>
+                            <p>Associate Degree Operation Physical Education</p>
                             <p>2014 to 2017</p>
                         </div>
                     </Card>
