@@ -24,14 +24,13 @@ export const WorkExprience = [
         'description':
             'Website for recording purchase invoices, online sales and admin panel (React , bootstrap , react-bootstarp)',
     },
-    // {
-    //     'title': 'Senior front-end developer',
-    //     'date': 'Sep 2021 - Present · 6 mos',
-    //     'location': 'Dubai, United Arab Emirates',
-    //     'subTitle': 'Dream Come True Information Technology',
-    //     'description':
-    //         'Dream Come True has provided innovative ideas and income opportunities to live a life in balance.',
-    // },
+    {
+        'title': 'midd-level front-end developer',
+        'date': 'May 2022 - Present · full-time',
+        'location': 'Turkey',
+        'subTitle': 'Finestel',
+        'description': 'Crypto currency (React , Next , Redux , Material , Tailwindcss)',
+    },
 ];
 export const Skills: SkillItemProps[] = [
     {
@@ -48,6 +47,10 @@ export const Skills: SkillItemProps[] = [
     },
     {
         title: 'Next.js',
+        subTitle: 'Mid',
+    },
+    {
+        title: 'Redux',
         subTitle: 'Mid',
     },
 
