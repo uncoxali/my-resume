@@ -1,0 +1,60 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.shell.linux": "bash",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "todo-tree.tree.showScanModeButton": false,
+  "glassit.alpha": 220,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "yaml.schemas": {
+    "file:///c%3A/Users/Ali/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "editor.inlineHints.fontFamily": "Fira Code",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "json.schemas": [],
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "workbench.colorCustomizations": {},
+  "redhat.telemetry.enabled": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.codeLensFontFamily": "Fira Code",
+  "debug.console.fontFamily": "Fira Code",
+  "scm.inputFontFamily": "Fira Code",
+  "terminal.integrated.fontWeightBold": null,
+  "editor.fontLigatures": true,
+  "git.confirmSync": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "settingsSync.ignoredExtensions": ["github.copilot"],
+  "vscode-edge-devtools.webhint": false,
+  "npm.keybindingsChangedWarningShown": true,
+  "cSpell.languageSettings": [],
+  "git.suggestSmartCommit": false,
+  "turboConsoleLog.wrapLogMessage": false,
+  "turboConsoleLog.insertEnclosingFunction": true,
+  "turboConsoleLog.includeFileNameAndLineNum": true,
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "turboConsoleLog.insertEnclosingClass": true,
+  "turboConsoleLog.logMessagePrefix": "😡",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Ayu Dark",
+  "window.zoomLevel": -1
+}
